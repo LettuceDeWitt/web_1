@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(75, 255,255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 5em;
+    padding-left: 5em ;
+    padding-right: 5em;
+    padding-right: 5em;
+
+}
+.fondoBlanco {
+    background-color: white;
+
+}
+.fondoAzul{
+    background-color:blue;
+}
+
+.fondoNegro{
+    background-color: black;
+}
+.imagen{
+    width: 150px;
+}
+.texto1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(233, 34, 44);
+}
+.texto2{
+    font-size: 1em;
+    color: white;
+    padding: justify;
+}
+
+.separacion{
+    padding: 1em;
+}
+.texto3{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.border{
+    border: 10px whitesmoke;
+    border-radius: 10px;
+}
+
+.texto4{
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+
+a{
+    color:red;
+}
+
+
+.borderVerde{
+    border: 5px solid deeppink;
+    border-radius: 10px;
+}
